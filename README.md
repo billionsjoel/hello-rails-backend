@@ -66,8 +66,8 @@ Link to [localhost](http://localhost:3000/)
 
 👤 **Atugonza (Billions) Joel**
 
-- GitHub: [@gtekle](https://github.com/billionsjoel)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/billionsjoel)
+- GitHub: [@billionsjoel](https://github.com/billionsjoel)
+- LinkedIn: [billionsjoel](https://linkedin.com/in/billionsjoel)
 
 ## 🤝 Contributing
 
