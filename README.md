@@ -8,7 +8,7 @@ This project is made as part of Microverse program.
 
 ## Link to front-end part
 
-> Here is the (link)[https://github.com/billionsjoel/hello-react-frontend/tree/develop] to the front-end part of this project
+> Here is the [link](https://github.com/billionsjoel/hello-react-frontend/tree/develop) to the front-end part of this project
 
 ## Built With
 
