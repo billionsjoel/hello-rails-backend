@@ -1,37 +1,79 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Description
+# hello-rails-back-end
 
-The hello rails react app is a  project created to teach me how to use the rails react gem with ruby.
+> This project is built as part of the Microverse Full-stack software development training to develop knowledge on Ruby on Rails by creating a simple API that generates random greeting messages.
 
-## App screenshot
-![screenshot](./app-screenshot.png)
-
+This project is made as part of Microverse program.
 
 ## Built With
 
-- Ruby
-- Ruby on Rails
+- RUBY
+- RAILS
+
+## Live Demo
+There is no live demo for this project, yet.
 
 ## Getting Started
 
-To get the content of this project locally you need to run this command in your terminal:
-``` bash
-git clone your https://github.com/billionsjoel/hello-rails-react.git
-cd hello rails backend
-bundle install
-rails s
+Start by cloning the repository.
+
+```
+git clone https://github.com/billionsjoel/hello-rails-backend.git
 ```
 
+Navigate to the created folder.
 
-## Authors
+```
+cd hello-rails-backend
+```
 
-👤 **Atugonza Joel Billions**
+Current Ruby Version for this project
 
-- GitHub: [@billionsjoel](https://github.com/billionsjoel)
-- Twitter: [@billionsjoel](https://twitter.com/billionsjoel)
-- LinkedIn: [billionsjoel](https://www.linkedin.com/in/billionsjoel)
+```
+ruby 3.0.1
+```
 
+Install all the dependencies.
+
+```
+bundle install
+```
+
+Create and migrate the database
+
+```
+rails db:create
+rails db:migrate
+rails db:seed
+```
+
+To run the test suits
+
+```
+bundle exec rspec spec
+```
+
+To run the rails server
+
+```
+rails s -p 3000
+```
+
+Link to [localhost](http://localhost:3000/)
+
+## Author
+
+👤 **Atugonza (Billions) Joel**
+
+- GitHub: [@gtekle](https://github.com/billionsjoel)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/billionsjoel)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -39,8 +81,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to Microverse
-
+- Special thanks to [Gregoire Vella on Behance](https://www.behance.net/gregoirevella) for the Original design idea
 
 ## 📝 License
 
